@@ -1,8 +1,12 @@
 # Valeros
 <a href="https://lodpilot.kasteelamerongen.nl/" target="_blank">![image](https://github.com/user-attachments/assets/93450639-4a0b-4a28-8db8-05eff3bd2257)</a>
 
+> [!IMPORTANT]
+> Note that this project handles both data- and presentation layer responsibilities in one front-end. [Erfgoedzoeker](https://github.com/Simon-Dirks/erfgoedzoeker) is the continuation of this project and explicitly separates data and presentation work as per [NDE guidelines](https://zenodo.org/records/17541400). It also allows for configuration through an intuitive Web UI, so we recommend you check it out before working with this project.
+
 > [!WARNING]  
-> This project is actively being developed, but not yet ready for production. For the latest development version, please check the [development branch](https://github.com/view-a-LOD/Valeros/tree/develop).
+> For the latest development version, please check the [development branch](https://github.com/view-a-LOD/Valeros/tree/develop).
+
 
 Valeros allows **easy setup of a faceted search Linked Open Data viewer**, working across ontologies and organizations out-of-the-box. It is designed to be flexible and configurable, allowing you to tweak how, where, and when to show data to your end users. As a front-end/client-side viewer, it is simple and cheap to host and deploy. As a back-end, it uses Elasticsearch for efficient search and filtering, and (optionally) SPARQL for asynchronous enrichment of search results. 
 
