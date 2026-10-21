@@ -2,9 +2,6 @@
 
 <img src="https://github.com/user-attachments/assets/bf3abefe-f84c-439b-b6eb-74be33135dca" />
 
-> [!WARNING]  
-> This project is actively being developed, but not yet ready for production.
-
 Valeros allows **easy setup of a faceted search Linked Open Data viewer**, working across ontologies and organizations out-of-the-box. It is designed to be flexible and configurable, allowing you to tweak how, where, and when to show data to your end users. As a front-end/client-side viewer, it is simple and cheap to host and deploy. As a back-end, it uses Elasticsearch for efficient search and filtering, and (optionally) SPARQL for asynchronous enrichment of search results.
 
 For **technical documentation**, please check the [project wiki](https://github.com/view-a-LOD/Valeros/wiki).
